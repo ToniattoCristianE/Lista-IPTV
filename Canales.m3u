@@ -2,8 +2,8 @@
 #EXTINF:-1,Argentinisima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1,Santa Fe Canal
-https://playback2.akamaized.net/streams/22636012_8242619_lsizxa9vm44anaiw3e0_1/exp=1681668612~acl=%2f*~data=hdntl~hmac=08a2cd2d414c1ca3dcce9973f1f26752dccc6b79b2c42794a216695b4b82ea6d/media/22636012_8242619_lsizxa9vm44anaiw3e0_1@3756000p.m3u8?dw=14400&ts=1681581600
+https://playback2.akamaized.net/streams/22636012_8242619_lsizxa9vm44anaiw3e0_1/master.m3u8
 #EXTINF:-1,Television Digital Codificada
 https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w1865082013.m3u8
 #EXTINF:-1,Telefe (Santa Fe)
-https://telefecanal1.akamaized.net/hls/live/2033413/canal13santafe/TOK/hdntl=exp=1681668505~acl=%2f*~data=hdntl~hmac=1ca08077626d79c4d07a68766dffb8565cc1c0d87fbd168ea3ef66c73c653728/master0.m3u8
+https://telefecanal1.akamaized.net/hls/live/2033413/canal13santafe/TOK/master.m3u8
