@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1,Argentinisima Satelital
+https://stream1.sersat.com/hls/argentinisima.m3u8
+#EXTINF:-1,Santa Fe Canal
+https://www.santafecanal.com.ar/envivo
+#EXTINF:-1,Television Digital Codificada
+https://tdconline.com.ar/vivo/
+#EXTINF:-1,Telefe (Santa Fe)
+https://santafe.mitelefe.com/vivo
