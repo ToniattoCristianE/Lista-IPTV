@@ -1,9 +1,33 @@
 #EXTM3U
-#EXTINF:-1,Argentinisima Satelital
-https://stream1.sersat.com/hls/argentinisima.m3u8
-#EXTINF:-1,Santa Fe Canal
-https://playback2.akamaized.net/streams/22636012_8242619_lsizxa9vm44anaiw3e0_1/master.m3u8
-#EXTINF:-1,Television Digital Codificada
-https://5e7cdf2370883.streamlock.net/tdconline/tdconline/chunklist_w1865082013.m3u8
-#EXTINF:-1,Telefe (Santa Fe)
-https://telefecanal1.akamaized.net/hls/live/2033413/canal13santafe/TOK/master.m3u8
+#EXTINF:-1,AIRE DE SANTA FE 91.1 FM
+https://unlimited1-buenosaires.dps.live/airedesantafetv/airedesantafetv.smil/playlist.m3u8
+#EXTINF:-1,SANTA FE CANAL (SEÑAL DE PRUEBA)
+api.new.livestream.com/accounts/22636012/events/8242619/broadcasts/235830500.m3u8?dw=80&hdnea=st=1681612972~exp=1681614772~acl=/i/22636012_8242619_lsi796kfk3bcghpn2aa_1@407621/*~hmac=38e04c0e50ea2a6b6ede281a249464afeab95d15e0ed074fd8017a59b48e982b&token=643b61d8_e56427870faff61477f4a3d20dd22fc31358210b
+#EXTINF:-1,TN
+https://telefullenvivo.com/canales/tn/op2.php
+#EXTINF:-1,A24
+https://telefullenvivo.com/canales/a24/op2.php
+#EXTINF:-1,TELEVISION PUBLICA 
+https://nexthole.golf/dtvpl2.html?id=1156
+#EXTINF:-1,DIPUTADOS TV
+https://nosequewea.tk/fl?get=LmN2YXR0di5jb20uYXIvbGl2ZS9jNmVkcy9EaXB1dGFkb3NfVFYvU0FfTGl2ZV9kYXNoX2VuYy9EaXB1dGFkb3NfVFYubXBk&key=OTY2NmIxOTUxNzE0NDJhZmQ0NTUxYThkZTAxMjkxYTY=&key2=MWMwMDYxZGY5YjRiMDk4ZTQwMzU1MTY3ZTk3Y2ZiZjA=
+#EXTINF:-1,TELESUR
+https://www.dailymotion.com/embed/video/x82ug5r?autoplay=1
+#EXTINF:-1,RAI ITALIA (ITALIA)
+https://blackface.world/dtvpl.html?id=1184
+#EXTINF:-1,RTVE (ESPAÑA)
+https://www.youtube.com/watch?v=xR-4NDFsYNk
+#EXTINF:-1,HBO SIGNATURE
+https://nosequewea.tk/fl?get=LmN2YXR0di5jb20uYXIvbGl2ZS9jNmVkcy9IQk9fU2lnbmF0dXJlL1NBX0xpdmVfZGFzaF9lbmMv%20SEJPX1NpZ25hdHVyZS5tcGQ=&key=ZTg2NjQ5OWZiYzExNDlmNDk5ODk2NzIwNzVhYTNhNjg=&key2=ZDJkZDVjOTU2MjNjNjM0MzI0MDk4MWMyMjAyZmMzMTE=
+#EXTINF:-1,UNIVERSAL PREMIERE
+https://telefullenvivo.com/canales/universal-premiere/
+#EXTINF:-1,DIRECTV SPORTS
+https://nexthole.golf/dtvpl2.html?id=1057&lang=1
+#EXTINF:-1,TNT SPORTS
+https://nexthole.golf/dtvpl2.html?id=1233
+#EXTINF:-1,AFIZZIONADOS TV
+https://embed.librefutboltv.com/mpdk.html?get=aHR0cHM6Ly9saXZlMS1vdHQuaXp6aWdvLnR2L291dC91L2Rhc2gvQUZJWlpJT05BRE9TLUhEL2RlZmF1bHQubXBk&key=ZTU2ZDdjMWVkNzNhMDA0YzNlYmU1Njk4ZjZjNmY2YjE=&key2=YzM5MTUwYmEyNjk4NmE4YTMwYmQ4OGM5NjBlZTBhOTg=
+#EXTINF:-1,QUIERO MUSICA TV
+https://nosequewea.tk/dtvc?get=aHR0cHM6Ly9kdHZvdHQtYWJjLmFrYW1haXplZC5uZXQvZGFzaF9saXZlXzExODMvbWFuaWZlc3QubXBk&key=ODcwZTMyNGU0NjE3NTM2MmIxZGU4YTQ5MmNiZGIzODM=&key2=Njg0ZTEwNDEwOTg0MWViNWY3Y2Q2NDVlZmM5NzcwMTE=
+#EXTINF:-1,CANAL ENCUENTRO
+https://nosequewea.tk/fl?get=LmN2YXR0di5jb20uYXIvbGl2ZS9jNmVkcy9FbmN1ZW50cm8vU0FfTGl2ZV9kYXNoX2VuY18yQS9FbmN1ZW50cm8ubXBk&key=YWMzYWU3OGJlYjY0NDc4YWIzOTBiNGFkNzBlM2UwYzk=&key2=YzdkNjY5NzYxYzM1MTZkODUyYTBlZGY5ZTA3YzkxOTg=
